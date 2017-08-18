@@ -1,5 +1,5 @@
-https://img.shields.io/badge/style-flat--squared-green.svg?style=flat-square/BUILDING-CONCEPTING-red.svg
-https://img.shields.io/badge/style-flat--squared-green.svg?style=flat-square/VERSION-0.1-blue.svg
+![Screenshot](https://img.shields.io/badge/style-flat--squared-green.svg?style=flat-square/BUILDING-CONCEPTING-red.svg)
+![Screenshot](https://img.shields.io/badge/style-flat--squared-green.svg?style=flat-square/VERSION-0.1-blue.svg)
 
 # Nanoos
 Microkernel, for Smartphone usage, modular like a linux kernel, but written entirely in rust.
