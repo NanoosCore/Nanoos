@@ -15,10 +15,13 @@ Microkernel, for Smartphone usage, modular like a linux kernel, but written enti
 - ROOT ACCESS (FROM START)
 
 ## SUPPORTED SOC'S
-- INTEL ATOM X Series
+- INTEL SOC'S
   - Intel® Atom® x3-C3130 Prozessor to Intel® Atom® x7-Z8700 Prozessor
   - INTEL ATOM Z3580
-- QUALCOMM
+- QUALCOMM SOC'S
   - SNAPDRAGON 801 to QUALCOMM SNAPDRAGON 830
-- ARM
+- ARM SOC'S
   - CORTEX A53 to CORTEX A75
+- MEDIATHEK SOC'S
+  - X10 to X30
+  - P10 to P25
