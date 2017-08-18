@@ -11,3 +11,4 @@ Microkernel, for Smartphone usage, modular like a linux kernel, but written enti
 - NO PROPRIETORY STUFF, NO BLOBBS
 - SECURITY ACCESS MANAGER
   - MAIN CONTROL ACCESS "TOOL" TO GET IN THE SYSTEM!
+- ROOT ACCESS (FROM START)
